@@ -1,0 +1,5 @@
+Second frontend assignment
+6-7 hours.
+It was quite a challenge, at the start it was pretty straightforward but
+getting the custom legend done was way more complicated.
+For some reason datalabels don't work, I looked everywhere and it seems I implemented it right, could be a version difference?.

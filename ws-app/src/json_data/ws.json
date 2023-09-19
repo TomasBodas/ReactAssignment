@@ -1,0 +1,1470 @@
+{
+	"data": {
+		"Store": "一番町",
+		"List": [
+			{
+				"Hour": 0,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 11
+				}
+			},
+			{
+				"Hour": 0,
+				"JobTaskId": "6712e476-7274-4fd2-8e34-200417689bf2",
+				"Override": {
+					"Duration": 105
+				}
+			},
+			{
+				"Hour": 0,
+				"JobTaskId": "cd483928-6eda-499e-842d-6bd791c13562",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 0,
+				"JobTaskId": "3c835869-440d-47aa-a854-574d98c9eb9d",
+				"Override": {
+					"Duration": 90
+				}
+			},
+			{
+				"Hour": 0,
+				"JobTaskId": "4c039649-4b02-454c-8b54-84759a421a6c",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "012a4161-4309-4de5-b9a7-5f5eec8ce988",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "23079551-7054-4737-b720-115f5dccb596",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "280a0cdd-67ee-4ccf-9711-feb6db63a020",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "32a35828-9bf9-4302-bbca-f891a9735886",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "4614034a-4a0e-48df-8d47-b86f8c64aedf",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "54400632-35c4-4fdf-893b-1c97f2bb4f37",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 1,
+				"JobTaskId": "7a9c7741-3604-4b6a-9627-089e8b41c4e3",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 4
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "c89b93e9-4f57-4417-a654-e89226277023",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "0673a964-426d-4aef-85d7-5ed16723d342",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "391aac22-b113-4789-9268-09eb6fc0347b",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "3c2fc6e9-6be1-4c62-ae06-5d5dbf1d8738",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "3ed6f794-5fdd-4a2e-871a-bb77ed4a15e5",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "c01725e2-6faa-4260-91d0-976391b572ad",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "f1a2b117-d743-4048-9c8e-e58493b69cc0",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "cb4830b9-f028-4365-90b1-46316638903c",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 2,
+				"JobTaskId": "bb7b32e8-e5ea-473f-84ba-223bb2d806e7",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 3,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 4
+				}
+			},
+			{
+				"Hour": 3,
+				"JobTaskId": "fe7f5751-2c6e-4580-ba14-c0c5c91e6492",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 3,
+				"JobTaskId": "30111942-0479-457b-80be-13fde850d578",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 3,
+				"JobTaskId": "944cacf3-bd79-4fa3-88d1-df457d0df375",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 2
+				}
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "4eac3aca-2d12-41d4-8000-ae4f8a80b65d",
+				"Override": null
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "6dedcbdd-5436-4484-982c-21b9141f5d00",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "e7b90445-465e-4586-8ae1-f60869284190",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "305a8975-f237-4bc8-8519-9316c6935ac1",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 4,
+				"JobTaskId": "880220d3-a8a3-4392-9e53-70f2d87fb102",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 7
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "069e49b0-b65e-41bc-b2b2-6fa1b7208300",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "299effe5-3595-4288-bdbd-b2dace999440",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "85d33f6f-e4e6-4dbd-a291-5d501539c226",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "d40d1b1e-22ad-4326-8983-ba852e8ae9b9",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "765f2ff9-ba31-4480-8ecd-c60867fcd340",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "ef78adf1-941b-42d5-a9de-a59a6ea5e77c",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "cac05c8d-2ff6-4ad2-9ea9-db528262304d",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 5,
+				"JobTaskId": "f3aba831-bd64-4b37-9aa2-fbdb45b986c0",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 33
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "b0875a16-a07a-4f43-a463-7ab29f9f1255",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "b475a836-8162-4d3c-92c2-b5e8e07e275b",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "a431d750-8783-4bac-86ec-5433fd444dfb",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "2a33cb4f-a966-4c91-b3a3-85b16492d5ab",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "4000fb1d-a1d2-46fb-a9a8-8cb20d65dbf5",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "557cf7c6-ba6b-4c88-920a-3cd310e49915",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 6,
+				"JobTaskId": "9523436e-cf18-4023-9e76-28acbf353c6e",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 95
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "cbdedd2b-597e-4d2a-bb52-041deb285e62",
+				"Override": {
+					"Duration": 80
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "575d7e93-3e64-440c-8760-d0b39e9e680a",
+				"Override": {
+					"Duration": 21
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "5b145336-0996-4d15-bc46-f0cf78bdd403",
+				"Override": {
+					"Duration": 52
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "8352c36b-d293-42d5-940e-1e1e2cfcbb3e",
+				"Override": {
+					"Duration": 13
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "a6145672-4cd7-441a-a910-acd7748fad14",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "0c49e22d-230e-4a98-b45a-7ae88a76629c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 7,
+				"JobTaskId": "c73703fd-0776-4587-8b70-8e6d59d4bb58",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 8,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 166
+				}
+			},
+			{
+				"Hour": 8,
+				"JobTaskId": "305ec579-7f86-448b-babc-48f6da0ff5a5",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 8,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 98
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "c0b3c506-df8c-4bb7-bb7f-96f0e511759b",
+				"Override": null
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "bdad5652-5d9b-42b3-8fdd-0a8791601624",
+				"Override": null
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "0a25d3ee-ac91-4d00-b2e6-6c8c024d33db",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "a80ccaed-74ec-4a4e-9ce4-30146504c1ed",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "81571cbb-e0c0-4d58-b873-09976cb305aa",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "97e00caa-fd25-469a-9cd5-2ba4ad9aa58b",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "4c55c0ef-8f2a-4ff4-9f58-115adc3bedb2",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 9,
+				"JobTaskId": "11cd520d-0924-40d0-bad7-7c6b5f4ab0ad",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 44
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "d59c4daa-04d9-4b70-98ff-5f529fa3ae20",
+				"Override": {
+					"Duration": 100
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "b57c2cd8-695a-4f71-aebf-0cdc754f18ef",
+				"Override": {
+					"Duration": 120
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "299effe5-3595-4288-bdbd-b2dace999440",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "b6313abd-9ae1-45fb-8244-4a12966f4db3",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "47e1b6cb-ea67-475b-b695-f505b9abae38",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "631cb5f5-3bcb-4529-9569-4c1d27d80c79",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "85d33f6f-e4e6-4dbd-a291-5d501539c226",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "80277fd4-88a0-4065-b08c-e7e2a86fbf00",
+				"Override": {
+					"Duration": 7
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "9f447eed-160d-4f92-b5d3-00cf4ea27ba6",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "aaf90b1f-43f3-49b7-b8de-e7ffb17a7ac3",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "ef78adf1-941b-42d5-a9de-a59a6ea5e77c",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "951a50b2-1b88-47d2-8b8f-96140d44af99",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "cac05c8d-2ff6-4ad2-9ea9-db528262304d",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "f3aba831-bd64-4b37-9aa2-fbdb45b986c0",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "f7657a11-9858-43db-bd84-391b389968b7",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 10,
+				"JobTaskId": "ff288c24-839b-4549-8889-f68ec32f4e11",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 54
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "4eac3aca-2d12-41d4-8000-ae4f8a80b65d",
+				"Override": null
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "b0875a16-a07a-4f43-a463-7ab29f9f1255",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "b475a836-8162-4d3c-92c2-b5e8e07e275b",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "a431d750-8783-4bac-86ec-5433fd444dfb",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "2a33cb4f-a966-4c91-b3a3-85b16492d5ab",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "a6145672-4cd7-441a-a910-acd7748fad14",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "0406a12d-3d33-4da5-aff6-20a9a428bd2b",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "0a755789-cee5-4ac4-a73e-fa42fe9061a7",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "0c49e22d-230e-4a98-b45a-7ae88a76629c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "4000fb1d-a1d2-46fb-a9a8-8cb20d65dbf5",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "557cf7c6-ba6b-4c88-920a-3cd310e49915",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "305a8975-f237-4bc8-8519-9316c6935ac1",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "765f2ff9-ba31-4480-8ecd-c60867fcd340",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "f1a2b117-d743-4048-9c8e-e58493b69cc0",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "880220d3-a8a3-4392-9e53-70f2d87fb102",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "c73703fd-0776-4587-8b70-8e6d59d4bb58",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "9523436e-cf18-4023-9e76-28acbf353c6e",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "c42dd345-f8bd-4883-8fdd-af53360fcfda",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "d7540aea-f9e5-4777-b482-bd1019dfb6d8",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "bb7b32e8-e5ea-473f-84ba-223bb2d806e7",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 11,
+				"JobTaskId": "7f9e77a5-3fcc-4973-8226-e394138fe974",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 147
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "6dedcbdd-5436-4484-982c-21b9141f5d00",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "8b5acf69-2f70-4535-a117-ec8eefb71c8f",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "a1931267-5251-45af-85e9-6f5cebe9fa88",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 12,
+				"JobTaskId": "c923ac4d-1fd5-4942-b09f-8b9c8e786d05",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 13,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 13,
+				"JobTaskId": "c0b3c506-df8c-4bb7-bb7f-96f0e511759b",
+				"Override": null
+			},
+			{
+				"Hour": 13,
+				"JobTaskId": "bdad5652-5d9b-42b3-8fdd-0a8791601624",
+				"Override": null
+			},
+			{
+				"Hour": 13,
+				"JobTaskId": "2cfb6c44-b936-4058-85cc-494c5da5c115",
+				"Override": null
+			},
+			{
+				"Hour": 13,
+				"JobTaskId": "0165532c-0bd7-4e91-ada6-dc4f964e76de",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 42
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "e4b312d7-db54-4755-9e0c-a921c54146bf",
+				"Override": {
+					"Duration": 40
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "f4bebc12-79f6-47fb-9663-0492bf7b2c38",
+				"Override": {
+					"Duration": 0
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "7f4c8779-ea01-4af5-b79c-c20287b390be",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "07c2631c-e8a5-4f42-91b2-9677f6174b5b",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "44baa696-d8bb-4696-bd74-3ea11e00d035",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 14,
+				"JobTaskId": "4c55c0ef-8f2a-4ff4-9f58-115adc3bedb2",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 47
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "97417fdd-4ced-499d-9897-8f07f571fcdd",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "9f1bb72c-e00e-4333-8f0f-adadc4ae1241",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "d420974d-ebd4-4824-a626-6b2ffc4acafd",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "45ef88ed-00b5-4462-bacf-1de2d568e88c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "1c2f7f14-5f34-42e7-aa6a-d94dc6a4505b",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "9ee9036e-a0e1-4d11-86a6-0e08fe850d08",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "b5ec4840-24c8-4841-b48c-c9b290b032b3",
+				"Override": {
+					"Duration": 2
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "220b9210-0e30-4b99-8c83-14faff882cc8",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "8851e374-895b-4804-9fbf-789cbd01b44c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "d96d2520-e2f6-4dc4-b264-25a8d5c9772b",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "dfc03884-7d05-4179-9905-3f57b9c4e799",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "63c81455-9775-4252-86bd-2880013d9ddd",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "c1f77a6f-ebe0-4fa4-a754-ea4af9a02c19",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "e4f039df-c74c-4e6c-b87f-99494dda3f0e",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "88767562-0674-429f-a690-e9b23f07fd68",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "96fa707d-b94c-44ad-997e-6d799cb4bc2b",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 15,
+				"JobTaskId": "f1407d8a-d079-4343-8185-32cea6a3ff73",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 53
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "b0875a16-a07a-4f43-a463-7ab29f9f1255",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "b475a836-8162-4d3c-92c2-b5e8e07e275b",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "a431d750-8783-4bac-86ec-5433fd444dfb",
+				"Override": {
+					"Duration": 25
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "2a33cb4f-a966-4c91-b3a3-85b16492d5ab",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "305a8975-f237-4bc8-8519-9316c6935ac1",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "880220d3-a8a3-4392-9e53-70f2d87fb102",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "c73703fd-0776-4587-8b70-8e6d59d4bb58",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "9523436e-cf18-4023-9e76-28acbf353c6e",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "cac05c8d-2ff6-4ad2-9ea9-db528262304d",
+				"Override": {
+					"Duration": 20
+				}
+			},
+			{
+				"Hour": 16,
+				"JobTaskId": "f3aba831-bd64-4b37-9aa2-fbdb45b986c0",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 52
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "c0b3c506-df8c-4bb7-bb7f-96f0e511759b",
+				"Override": null
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "bdad5652-5d9b-42b3-8fdd-0a8791601624",
+				"Override": null
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "cbdedd2b-597e-4d2a-bb52-041deb285e62",
+				"Override": {
+					"Duration": 80
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "0c49e22d-230e-4a98-b45a-7ae88a76629c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "13ca1199-04dc-4ed9-9745-9ce59f774615",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "4000fb1d-a1d2-46fb-a9a8-8cb20d65dbf5",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "557cf7c6-ba6b-4c88-920a-3cd310e49915",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "54eeff15-9979-43cc-8c48-f34886f49113",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "85d33f6f-e4e6-4dbd-a291-5d501539c226",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "d492f69b-1bcf-40d0-818f-22ae854a4cf1",
+				"Override": {
+					"Duration": 7
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "765f2ff9-ba31-4480-8ecd-c60867fcd340",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "ef78adf1-941b-42d5-a9de-a59a6ea5e77c",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "f7657a11-9858-43db-bd84-391b389968b7",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 17,
+				"JobTaskId": "ff288c24-839b-4549-8889-f68ec32f4e11",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 18,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 53
+				}
+			},
+			{
+				"Hour": 18,
+				"JobTaskId": "299effe5-3595-4288-bdbd-b2dace999440",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 18,
+				"JobTaskId": "ae957b3c-9fb2-4372-9517-2538e355a874",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 51
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "6da69a3b-f8c9-458f-8bbf-e3ef2ef36710",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "0cc33bce-64c0-4785-86f6-0b3d43850856",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "0a755789-cee5-4ac4-a73e-fa42fe9061a7",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "c42dd345-f8bd-4883-8fdd-af53360fcfda",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 19,
+				"JobTaskId": "76409211-f40d-45fc-9af0-277953026d87",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 20,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 41
+				}
+			},
+			{
+				"Hour": 20,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 20,
+				"JobTaskId": "57111343-9552-4aef-99a5-4410d0b3a3ff",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 20,
+				"JobTaskId": "5db8f364-d8cc-4154-b880-725dabaef335",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 20,
+				"JobTaskId": "af62bf55-0dcc-4c07-9933-569e419d33fe",
+				"Override": {
+					"Duration": 30
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 29
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "c0b3c506-df8c-4bb7-bb7f-96f0e511759b",
+				"Override": null
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "bdad5652-5d9b-42b3-8fdd-0a8791601624",
+				"Override": null
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "cbdedd2b-597e-4d2a-bb52-041deb285e62",
+				"Override": {
+					"Duration": 80
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "4976af7d-ff4c-427f-b371-1cd350e2b9bd",
+				"Override": {
+					"Duration": 16
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "a29f8006-21b1-466d-8455-b41d4cad729e",
+				"Override": {
+					"Duration": 65
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "4f8badd1-59bb-43dd-bccd-f4154f5950e5",
+				"Override": {
+					"Duration": 65
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "3d690b2e-d87f-433b-9fab-7b22ea87f4b4",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 21,
+				"JobTaskId": "ede8f005-49ea-4612-b622-aa4efb1a1728",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 22
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "a6145672-4cd7-441a-a910-acd7748fad14",
+				"Override": {
+					"Duration": 60
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "25ca381a-2a92-4ada-8435-708259afcbe9",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "c73703fd-0776-4587-8b70-8e6d59d4bb58",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "9523436e-cf18-4023-9e76-28acbf353c6e",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 22,
+				"JobTaskId": "f2b6b6b7-7fd6-4589-8127-b5721fd806e8",
+				"Override": {
+					"Duration": 10
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "a6b02fab-a804-4820-99d3-e38f69ed2c17",
+				"Override": {
+					"Duration": 16
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "b5ddab84-7286-4b73-8890-108826bedc62",
+				"Override": {
+					"Duration": 50
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "fad3e201-efce-44a9-8540-5d1965a4e45f",
+				"Override": {
+					"Duration": 45
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "774bdc7a-1e79-4d47-9e8e-ce9ce22c12be",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "4a884216-72ae-4986-9ae6-e962fb5710c4",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "a03fb93f-bf43-4a23-aaca-ef675986321c",
+				"Override": {
+					"Duration": 15
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "2b3445f8-668d-4c2a-92ab-798ef8d3288f",
+				"Override": {
+					"Duration": 5
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "483cdbd9-b28f-46cd-b567-ef95cdb19822",
+				"Override": {
+					"Duration": 3
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "7383c013-a0d9-4153-bbd1-036d1eba3e76",
+				"Override": {
+					"Duration": 12
+				}
+			},
+			{
+				"Hour": 23,
+				"JobTaskId": "bc61e514-509b-4d89-8eef-f57996067632",
+				"Override": {
+					"Duration": 5
+				}
+			}
+		]
+		
+	}
+}

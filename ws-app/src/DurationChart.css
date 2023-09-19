@@ -1,0 +1,25 @@
+/* DurationChart.css */
+.legend-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    overflow-y: auto; /* Add scrollbar when content exceeds container height */
+    max-height: 100%; /* Limit container height to parent height */
+  }
+
+.custom-legend {
+  flex-grow: 1;
+}
+
+/* Add padding to the legend items */
+.custom-legend .legend-items {
+    padding: 16px;
+  }
+  
+  /* Add spacing between buttons */
+  .legend-button {
+    margin-right: 8px;
+  }
